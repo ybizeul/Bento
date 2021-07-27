@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Yann',
   imageBackground: false,
   openInNewTab: true,
 
@@ -37,15 +37,15 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'FieldPortal',
+      icon: '',
+      link: 'https://fieldportal.netapp.com/',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Cloud.netapp.com',
+      icon: 'cloud',
+      link: 'https://cloud.netapp.com',
     },
     {
       id: '3',
