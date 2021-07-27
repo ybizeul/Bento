@@ -38,7 +38,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'FieldPortal',
-      icon: '',
+      icon: 'archive',
       link: 'https://fieldportal.netapp.com/',
     },
     {
@@ -47,30 +47,7 @@ const CONFIG = {
       icon: 'cloud',
       link: 'https://cloud.netapp.com',
     },
-    {
-      id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
-    },
-    {
-      id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
-    },
+    
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
